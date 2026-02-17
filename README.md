@@ -19,7 +19,8 @@ Approach:
 Data Extraction
 Clone the GitHub repository containing PhonePe transaction data and load it into a PgAdmin database.
 Then successfully built a structured DataFrame from the PhonePe Pulse dataset!
-Dashboard Creation: Develop an interactive dashboard using Streamlit, to present the analysis coming problams. Ensure the dashboard integrates visualizations for real-time data exploration and insights.
+Dashboard Creation: Develop an interactive dashboard using Streamlit, to present the analysis coming problams.
+Ensure the dashboard integrates visualizations for real-time data exploration and insights.
 1. Decoding Transaction Dynamics on PhonePe
    1.State-Level Transaction
 which states drive the highest transaction volumes and values
@@ -98,6 +99,3 @@ Integrated backend database with frontend visualization
 Improved understanding of real-world data analytics workflow
 Project demonstrates skills in Data Extraction, SQL Proficiency, Data Visualization, Analytical Thinking and Streamlit
 
-
-Improved understanding of real-world data analytics workflow
-Project demonstrates skills in Python ,SQL,Data Visualization
